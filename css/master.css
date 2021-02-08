@@ -1,0 +1,41 @@
+/* regole generali */
+.container.fluid{
+  max-width: 75%;
+  text-align: center;
+}
+
+.grey{
+  background-color: #f9f9f9;
+  margin-top: 100px;
+}
+
+h3,img{
+  margin-bottom: 40px;
+}
+
+img{
+  height: 200px;
+}
+
+/* regole header */
+header{
+  margin-top: 100px;
+}
+
+/* regole main ultima parte */
+.grey h1{
+  margin-bottom: 30px;
+}
+
+hr{
+  width: 70%;
+  margin: 0 auto;
+  margin-top: 15px;
+  margin-bottom: 60px;
+}
+
+.imgblue{
+  background-color: #428bca;
+  border-radius: 50%;
+  padding: 30px;
+}
